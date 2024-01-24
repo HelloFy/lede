@@ -1,4 +1,4 @@
-## Fork For Feature
+## Feature
 1. 使用Lede主线，重新支持AX9000大分区版本。
 
 ## 注意
