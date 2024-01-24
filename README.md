@@ -1,21 +1,5 @@
-# 欢迎来到 Lean 的 LEDE 源码仓库
-
-I18N: [English](README_EN.md) | [简体中文](README.md) | [日本語](README_JA.md)
-
-## 官方讨论群
-
-如有技术问题需要讨论或者交流，欢迎加入以下群：
-
-1. QQ 讨论群： Op固件技术研究群 ,号码 891659613 ，加群链接：[点击加入](https://jq.qq.com/?_wv=1027&k=XL8SK5aC "Op固件技术研究群")
-2. TG 讨论群： OP 编译官方大群 ，加群链接：[点击加入](https://t.me/JhKgAA6Hx1 "OP 编译官方大群")
-
-## 软路由介绍
-
-硬酷R2 - N95/N300迷你四网HomeLab服务器
-
-[商品介绍页面 - 硬酷科技（支持花呗）](https://item.taobao.com/item.htm?id=721197662185)
-
-[![r1](doc/r1.jpg)](https://item.taobao.com/item.htm?id=721197662185)
+## Fork For Feature
+1. 使用Lede主线，重新支持AX9000大分区版本。
 
 ## 注意
 
@@ -141,20 +125,3 @@ PS > git clone git@github.com:coolsnowwolf/lede.git <your_local_lede_path>
    ```
 
 5. 重新加载一下 shell 启动文件 `source ~/.bashrc`，然后输入 `bash` 进入 bash shell，就可以和 Linux 一样正常编译了
-
-## 特别提示
-
-1. 源代码中绝不含任何后门和可以监控或者劫持你的 HTTPS 的闭源软件， SSL 安全是互联网最后的壁垒。安全干净才是固件应该做到的；
-
-2. 想学习 OpenWrt 开发，但是摸不着门道？自学没毅力？基础太差？怕太难学不会？跟着佐大学 OpenWrt 开发入门培训班助你能学有所成
-报名地址：[点击报名](http://forgotfun.org/2018/04/openwrt-training-2018.html "报名")
-
-3. QCA IPQ60xx 开源仓库地址：<https://github.com/coolsnowwolf/openwrt-gl-ax1800>
-
-4. 存档版本仓库地址：<https://github.com/coolsnowwolf/openwrt>
-
-## 捐贈
-
-如果你觉得此项目对你有帮助，可以捐助我们，以鼓励项目能持续发展，更加完善
-
- ![star](doc/star.png)
