@@ -1,0 +1,12 @@
+Index: linux-5.15.145/arch/arm64/boot/dts/qcom/Makefile
+===================================================================
+--- linux-5.15.145.orig/arch/arm64/boot/dts/qcom/Makefile
++++ linux-5.15.145/arch/arm64/boot/dts/qcom/Makefile
+@@ -9,6 +9,7 @@ dtb-$(CONFIG_ARCH_QCOM)	+= ipq8071-ax6.d
+ dtb-$(CONFIG_ARCH_QCOM)	+= ipq8071-ax3600.dtb
+ dtb-$(CONFIG_ARCH_QCOM)	+= ipq8071-mf269.dtb
+ dtb-$(CONFIG_ARCH_QCOM)	+= ipq8072-301w.dtb
++dtb-$(CONFIG_ARCH_QCOM)	+= ipq8072-ax9000.dtb
+ dtb-$(CONFIG_ARCH_QCOM)	+= ipq8078-xtr10890.dtb
+ dtb-$(CONFIG_ARCH_QCOM)	+= ipq8074-nbg7815.dtb
+ dtb-$(CONFIG_ARCH_QCOM)	+= ipq8074-hk01.dtb
